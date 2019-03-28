@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1553010661 source:/home/cool/projects/c/mycpp/calc.c
+	"calc.h"
+	<stdio.h>
+
+1553010206 /home/cool/projects/c/mycpp/calc.h
+
+1553350374 source:/home/cool/projects/c/mycpp/main.cpp
+	<iostream>
+	"calc.h"
+	<unistd.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+
